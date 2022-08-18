@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/palenight');
 module.exports = {
   title: 'Reactive Button',
   tagline: '3D animated react button component with progress bar',
-  url: 'https://arifszn.github.io',
+  url: 'https://jannatliza.github.io',
   baseUrl: '/reactive-button/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
